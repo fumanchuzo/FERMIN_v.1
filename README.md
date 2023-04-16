@@ -16,6 +16,6 @@ Cuando un programador realiza cambios en su editor de código local, puede subir
 Además, si quieres incorporar TUS cambios a la rama principal del proyecto para que otros puedan disfrutarlo, puedes solicitarme la revisión y aprobación de tus cambios mediante un "pull request". El pull request es una forma de pedirle al propietario del repositorio (Fumanchuzo o YO) que revise los cambios y decida si deben incorporarse a la rama principal del proyecto. 
 
  - PULL (paso 3)
-Si YO apruebo el pull request, los cambios se fusionan con la rama principal del proyecto y los demás desarrolladores podéis obtener los cambios más recientes mediante una nueva operación de "pull".
+Si YO apruebo el pull request, los cambios se fusionan con la rama principal del proyecto y los demás desarrolladores podéis obtener los cambios más recientes mediante un  "pull".
 
 Y vuelta a empezar.
